@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(D:\coding\cpp_primer_code\C++_test\bin\intermediates\x64\Debug\)包含从另一个项目(C++_test.vcxproj, Lambda表达式.vcxproj, 函数指针.vcxproj, 指针运算符计算偏移量.vcxproj, 模板.vcxproj, 深拷贝.vcxproj, 计时.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Vector容器.vcxproj -> D:\coding\cpp_primer_code\C++_test\bin\x64\Debug\Vector容器.exe

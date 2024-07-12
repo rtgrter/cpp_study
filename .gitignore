@@ -1,0 +1,3 @@
+# no .vs files
+*.vs
+*.ipch

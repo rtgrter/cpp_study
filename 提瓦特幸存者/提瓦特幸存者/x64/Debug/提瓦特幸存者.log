@@ -1,0 +1,10 @@
+﻿  Animation.cpp
+  Atlas.cpp
+  Bullet.cpp
+  Button.cpp
+  Enemy.cpp
+D:\coding\cpp_study\提瓦特幸存者\提瓦特幸存者\src\Button.cpp(22,71): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Player.cpp
+  main.cpp
+  正在生成代码...
+  提瓦特幸存者.vcxproj -> D:\coding\cpp_study\提瓦特幸存者\x64\Debug\提瓦特幸存者.exe

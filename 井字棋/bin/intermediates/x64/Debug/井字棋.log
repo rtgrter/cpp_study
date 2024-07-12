@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(67,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(67,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(70,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(70,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(70,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(70,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(71,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(71,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(71,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp_primer_code\井字棋\井字棋\src\main.cpp(71,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  井字棋.vcxproj -> D:\coding\cpp_primer_code\井字棋\bin\x64\Debug\井字棋.exe
